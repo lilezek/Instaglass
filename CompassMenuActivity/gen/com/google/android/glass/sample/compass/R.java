@@ -27,11 +27,9 @@ public final class R {
         public static final int place_mark=0x7f020004;
     }
     public static final class id {
-        public static final int compass=0x7f0b0000;
-        public static final int read_aloud=0x7f0b0003;
-        public static final int stop=0x7f0b0004;
-        public static final int tips_container=0x7f0b0001;
-        public static final int tips_view=0x7f0b0002;
+        public static final int pager=0x7f0b0000;
+        public static final int read_aloud=0x7f0b0001;
+        public static final int stop=0x7f0b0002;
     }
     public static final class layout {
         public static final int compass=0x7f030000;
